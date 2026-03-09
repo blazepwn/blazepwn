@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/terminal-banner.svg" alt="blazepwn terminal banner" width="100%" />
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="32" height="32" /> blazepwn</h1>
+  <h1>blazepwn</h1>
 </div>
 
 <br />
@@ -23,20 +23,18 @@
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="24" height="24" /> Posts
+## Posts
 
 - [Tratamiento de la TTY](https://blazepwn.com/posts/full-tty/)
-- [Nmap - Enumeracion de Servicios](https://blazepwn.com/posts/nmap-service-enumeration/)
-- [Nmap - Firewall IDS/IPS Evasion](https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/)
+- <img src="./assets/nmap.svg" alt="Nmap" width="16" height="16" /> [Nmap - Enumeracion de Servicios](https://blazepwn.com/posts/nmap-service-enumeration/)
+- <img src="./assets/nmap.svg" alt="Nmap" width="16" height="16" /> [Nmap - Firewall IDS/IPS Evasion](https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/)
 - [Controla Servidores Ubuntu con Ansible y Playbooks](https://blazepwn.com/posts/ansible/)
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Telephone" width="24" height="24" /> Contacto
+## Contacto
 
 - [GitHub](https://github.com/blazepwn)
 - [LinkedIn](https://www.linkedin.com/in/blazepwn)
 - [YouTube](https://www.youtube.com/@blazepwn)
 - [Discord](https://discord.gg/2SGKfsM8Zm)
-
-> Emojis by [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis).
