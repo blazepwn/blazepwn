@@ -26,8 +26,8 @@
 ## Posts
 
 - [Tratamiento de la TTY](https://blazepwn.com/posts/full-tty/)
-- <img src="./assets/nmap.svg" alt="Nmap" width="16" height="16" /> [Nmap - Enumeracion de Servicios](https://blazepwn.com/posts/nmap-service-enumeration/)
-- <img src="./assets/nmap.svg" alt="Nmap" width="16" height="16" /> [Nmap - Firewall IDS/IPS Evasion](https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/)
+- <img src="./assets/nmap.svg" alt="Nmap" width="14" height="14" /> [Nmap - Enumeracion de Servicios](https://blazepwn.com/posts/nmap-service-enumeration/)
+- <img src="./assets/nmap.svg" alt="Nmap" width="14" height="14" /> [Nmap - Firewall IDS/IPS Evasion](https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/)
 - [Controla Servidores Ubuntu con Ansible y Playbooks](https://blazepwn.com/posts/ansible/)
 
 <br />
