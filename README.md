@@ -22,17 +22,6 @@
 
 <br />
 
-```console
-$ whoami
-Emmanuel Aguilar Montano
-
-$ cat about.txt
-Ingeniero en Redes Inteligentes y Ciberseguridad.
-Blog tecnico sobre ciberseguridad, hacking etico, redes y tecnologia.
-```
-
-<br />
-
 ## Posts
 
 - [Tratamiento de la TTY](https://blazepwn.com/posts/full-tty/)
