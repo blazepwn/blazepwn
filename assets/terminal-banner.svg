@@ -1,54 +1,47 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#06090D"/>
-      <stop offset="1" stop-color="#0A1016"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05080D"/>
+      <stop offset="1" stop-color="#09111B"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="beam" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#E0E0E1" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#E0E0E1" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#E0E0E1" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#E0E0E1" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" stroke="#E0E0E1" stroke-opacity="0.08" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" stroke="#E0E0E1" stroke-opacity="0.07" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1280" height="360" fill="url(#bg)"/>
-  <rect width="1280" height="360" fill="url(#grid)"/>
-  <rect x="0" y="0" width="1280" height="360" fill="url(#glow)"/>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+  <rect width="1280" height="340" fill="url(#beam)"/>
 
-  <g opacity="0.12">
-    <rect x="88" y="72" width="4" height="220" fill="#E0E0E1"/>
-    <rect x="104" y="88" width="4" height="204" fill="#E0E0E1"/>
-    <rect x="120" y="56" width="4" height="236" fill="#E0E0E1"/>
-    <rect x="1130" y="48" width="4" height="244" fill="#E0E0E1"/>
-    <rect x="1146" y="82" width="4" height="210" fill="#E0E0E1"/>
-    <rect x="1162" y="64" width="4" height="228" fill="#E0E0E1"/>
-  </g>
+  <circle cx="1090" cy="80" r="140" fill="#E0E0E1" fill-opacity="0.03"/>
+  <circle cx="1090" cy="80" r="110" stroke="#E0E0E1" stroke-opacity="0.10"/>
+  <circle cx="1090" cy="80" r="78" stroke="#E0E0E1" stroke-opacity="0.08"/>
+  <circle cx="1090" cy="80" r="44" stroke="#E0E0E1" stroke-opacity="0.06"/>
 
-  <rect x="80" y="44" width="1120" height="272" rx="18" fill="#070C11" stroke="#E0E0E1" stroke-opacity="0.42" stroke-width="2"/>
-  <rect x="80" y="44" width="1120" height="34" rx="18" fill="#0E151D"/>
-  <circle cx="106" cy="61" r="5" fill="#E0E0E1" fill-opacity="0.95"/>
-  <circle cx="124" cy="61" r="5" fill="#E0E0E1" fill-opacity="0.65"/>
-  <circle cx="142" cy="61" r="5" fill="#E0E0E1" fill-opacity="0.35"/>
+  <rect x="70" y="34" width="1140" height="272" rx="20" fill="#07101A" stroke="#E0E0E1" stroke-opacity="0.36" stroke-width="2"/>
+  <rect x="70" y="34" width="1140" height="34" rx="20" fill="#0D1824"/>
+  <circle cx="96" cy="51" r="5" fill="#E0E0E1" fill-opacity="0.95"/>
+  <circle cx="114" cy="51" r="5" fill="#E0E0E1" fill-opacity="0.65"/>
+  <circle cx="132" cy="51" r="5" fill="#E0E0E1" fill-opacity="0.35"/>
+  <text x="160" y="56" fill="#E0E0E1" fill-opacity="0.82" font-family="monospace" font-size="14">root@blazepwn: ~/README.md</text>
 
-  <text x="170" y="66" fill="#E0E0E1" fill-opacity="0.82" font-family="monospace" font-size="14">root@blazepwn: ~/profile/README.md</text>
+  <text x="112" y="116" fill="#E0E0E1" font-family="monospace" font-size="18">root@blazepwn:~# whoami</text>
+  <text x="112" y="154" fill="#E0E0E1" font-family="monospace" font-size="34" font-weight="700">Emmanuel Aguilar Montano</text>
 
-  <text x="116" y="116" fill="#E0E0E1" font-family="monospace" font-size="18">root@blazepwn:~# whoami</text>
-  <text x="116" y="146" fill="#E0E0E1" font-family="monospace" font-size="26" font-weight="700">Emmanuel Aguilar</text>
+  <text x="112" y="204" fill="#E0E0E1" font-family="monospace" font-size="18">root@blazepwn:~# cat focus.txt</text>
+  <text x="112" y="238" fill="#E0E0E1" fill-opacity="0.94" font-family="monospace" font-size="22">ciberseguridad / pentesting / linux / redes</text>
 
-  <text x="116" y="194" fill="#E0E0E1" font-family="monospace" font-size="18">root@blazepwn:~# cat /proc/focus</text>
-  <text x="116" y="224" fill="#E0E0E1" fill-opacity="0.92" font-family="monospace" font-size="20">ciberseguridad | pentesting | linux | redes</text>
+  <text x="112" y="286" fill="#E0E0E1" font-family="monospace" font-size="18">root@blazepwn:~# curl -fsSL https://blazepwn.com</text>
+  <text x="112" y="320" fill="#E0E0E1" fill-opacity="0.94" font-family="monospace" font-size="21">tty | nmap | ansible | vmware | hyprland</text>
 
-  <text x="116" y="272" fill="#E0E0E1" font-family="monospace" font-size="18">root@blazepwn:~# curl -fsSL https://blazepwn.com</text>
-  <text x="116" y="302" fill="#E0E0E1" fill-opacity="0.92" font-family="monospace" font-size="20">notes, labs, nmap, ansible, vmware, hyprland</text>
-
-  <rect x="842" y="102" width="304" height="172" rx="14" fill="#0B1218" stroke="#E0E0E1" stroke-opacity="0.28"/>
-  <text x="864" y="132" fill="#E0E0E1" font-family="monospace" font-size="16">STATUS</text>
-  <text x="864" y="166" fill="#E0E0E1" fill-opacity="0.88" font-family="monospace" font-size="15">OS      : Arch Linux</text>
-  <text x="864" y="192" fill="#E0E0E1" fill-opacity="0.88" font-family="monospace" font-size="15">WM      : Hyprland</text>
-  <text x="864" y="218" fill="#E0E0E1" fill-opacity="0.88" font-family="monospace" font-size="15">TERM    : Kitty + Zsh</text>
-  <text x="864" y="244" fill="#E0E0E1" fill-opacity="0.88" font-family="monospace" font-size="15">PROMPT  : Powerlevel10k</text>
-  <text x="864" y="270" fill="#E0E0E1" fill-opacity="0.88" font-family="monospace" font-size="15">DOTFILES: github.com/blazepwn/dotfiles</text>
+  <rect x="860" y="108" width="274" height="132" rx="14" fill="#09141F" stroke="#E0E0E1" stroke-opacity="0.24"/>
+  <text x="884" y="138" fill="#E0E0E1" font-family="monospace" font-size="16">STATUS</text>
+  <text x="884" y="170" fill="#E0E0E1" fill-opacity="0.90" font-family="monospace" font-size="15">BLOG : blazepwn.com</text>
+  <text x="884" y="194" fill="#E0E0E1" fill-opacity="0.90" font-family="monospace" font-size="15">ROLE : redes + ciberseguridad</text>
+  <text x="884" y="218" fill="#E0E0E1" fill-opacity="0.90" font-family="monospace" font-size="15">LANG : es</text>
 </svg>
