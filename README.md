@@ -3,10 +3,11 @@
   <br />
   <br />
   <h1>blazepwn</h1>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Emmanuel+Aguilar+Montaño;Ingeniero+en+Redes+Inteligentes+y+Ciberseguridad;Pentesting%2C+Linux%2C+redes+y+automatizaci%C3%B3n;Escribiendo+contenido+t%C3%A9cnico+en+blazepwn.com"
-    alt="Typing SVG"
-  />
+  <p>
+    <strong>Emmanuel Aguilar Montaño</strong><br />
+    <sub>Ingeniero en Redes Inteligentes y Ciberseguridad · Pentesting · Linux · Redes</sub><br />
+    <sub>Escribiendo contenido técnico en español en <a href="https://blazepwn.com/">blazepwn.com</a></sub>
+  </p>
 </div>
 
 <p align="center">
@@ -36,12 +37,36 @@
 
 ## Posts destacados
 
-| Post | Enfoque |
-| --- | --- |
-| [Tratamiento de la TTY](https://blazepwn.com/posts/full-tty/) | Estabilización de shells y post-explotación |
-| [Nmap - Enumeración de Servicios](https://blazepwn.com/posts/nmap-service-enumeration/) | Reconocimiento y enumeración de servicios |
-| [Nmap - Firewall IDS/IPS Evasion](https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/) | Evasión y escaneo más sigiloso |
-| [Controla Servidores Ubuntu con Ansible y Playbooks](https://blazepwn.com/posts/ansible/) | Automatización operativa y administración |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Post</th>
+      <th>Enfoque</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://blazepwn.com/posts/dotfiles/">Mis dotfiles</a></td>
+      <td>Personalización, terminal y entorno de trabajo</td>
+    </tr>
+    <tr>
+      <td><a href="https://blazepwn.com/posts/full-tty/">Tratamiento de la TTY</a></td>
+      <td>Estabilización de shells y post-explotación</td>
+    </tr>
+    <tr>
+      <td><a href="https://blazepwn.com/posts/nmap-service-enumeration/">Nmap - Enumeración de Servicios</a></td>
+      <td>Reconocimiento y enumeración de servicios</td>
+    </tr>
+    <tr>
+      <td><a href="https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/">Nmap - Firewall IDS/IPS Evasion</a></td>
+      <td>Evasión y escaneo más sigiloso</td>
+    </tr>
+    <tr>
+      <td><a href="https://blazepwn.com/posts/ansible/">Controla Servidores Ubuntu con Ansible y Playbooks</a></td>
+      <td>Automatización operativa y administración</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Actividad en GitHub
 
