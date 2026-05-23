@@ -71,11 +71,7 @@
 ## Actividad en GitHub
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=blazepwn&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&rank_icon=github"
-    alt="GitHub stats"
-  />
+ 
   <img
     height="165"
     src="https://streak-stats.demolab.com?user=blazepwn&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E"
@@ -83,19 +79,4 @@
   />
 </p>
 
-## Conecta conmigo
 
-<p align="center">
-  <a href="https://github.com/blazepwn">
-    <img src="https://img.shields.io/badge/GitHub-blazepwn-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/blazepwn/">
-    <img src="https://img.shields.io/badge/LinkedIn-blazepwn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@blazepwn">
-    <img src="https://img.shields.io/badge/YouTube-@blazepwn-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/2SGKfsM8Zm">
-    <img src="https://img.shields.io/badge/Discord-comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
